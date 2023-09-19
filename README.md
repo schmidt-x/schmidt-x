@@ -6,7 +6,7 @@
 		</a>
 	</p>
 	<p align="left">
-		My name is Ismail, I am a Backend developer. Yeah, that's it.
+		My name is Ismail, I am a Backend developer. 
 		<br>
 		<br>
 		I'm currently:
@@ -18,18 +18,15 @@
  	</p>
 </div>
 
-<!-- maybe contacts ? -->
-
-<!-- <p align="center">
+<!-- 
+<p align="center">
 	<a href="https://github.com/schmidt-x/IdentityApi">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=schmidt-x&repo=IdentityApi&theme=dark&hide_border=true" />
 	</a>
 	<br>
 	This is my first project that allows you to fuck yourself and nothing more
-</p> -->
+</p>
 
-
-<!-- 
 <p align="right">
 	<a href="https://github.com/DenverCoder1/github-readme-streak-stats" >
 		<img height=179 src="https://github-readme-streak-stats.herokuapp.com?user=schmidt-x&theme=dark&border_radius=8&hide_border=true" />

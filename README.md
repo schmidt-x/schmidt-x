@@ -6,7 +6,7 @@
 		</a>
 	</p>
 	<p align="left">
-		My name is Ismail, I am a Backend developer. 
+		My name is Ismail, I am a Backend developer.
 		<br>
 		<br>
 		I'm currently:
@@ -21,33 +21,8 @@
 		<a href="https://t.me/stefano_schmidt" >
 			<img height=25 src="https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge" />
 		</a>
-		<a href="mailto:" >
-			<img height=25 src="https://img.shields.io/badge/Gmail-ededed?style=for-the-badge&logo=gmail" />
+		<a href="mailto:schmidtsigma@gmail.com" >
+			<img height=25 src="https://img.shields.io/badge/Gmail-ededed?logo=gmail&style=for-the-badge" />
 		</a>
 	</p>
 </div>
-
-<br>
-
-<!-- https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white -->
-<!-- 
-<p align="center">
-	<a href="https://github.com/schmidt-x/IdentityApi">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=schmidt-x&repo=IdentityApi&theme=dark&hide_border=true" />
-	</a>
-	<br>
-	This is my first project that allows you to fuck yourself and nothing more
-</p>
-
-<p align="right">
-	<a href="https://github.com/DenverCoder1/github-readme-streak-stats" >
-		<img height=179 src="https://github-readme-streak-stats.herokuapp.com?user=schmidt-x&theme=dark&border_radius=8&hide_border=true" />
-	</a>
-	<a href="https://github.com/anuraghazra/github-readme-stats" >
-		<img height=179 src="https://github-readme-stats.vercel.app/api?username=schmidt-x&theme=dark&hide_border=true" />
-	</a>
-	<a href="https://github.com/anuraghazra/github-readme-stats" >
-		<img height=179 src="https://github-readme-stats.vercel.app/api/top-langs/?username=schmidt-x&theme=dark&layout=compact&hide_border=true" />
-	</a>
-</p>
- -->

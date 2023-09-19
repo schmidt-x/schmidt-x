@@ -1,5 +1,5 @@
 <div>
-	<h2>Hello there👋</h2>
+	<h2>Hello there!👋</h2>
 	<p>
 		<a href="https://github.com/anuraghazra/github-readme-stats" >
 			<img align="right" height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=schmidt-x&theme=dark&layout=compact&hide_border=true" />
@@ -16,8 +16,20 @@
 			<li>🌱 — Learning <b>Unit Testing</b> and <b>Telegram bots</b></li>
 		</ul>
  	</p>
+	<br>
+	<p>
+		<a href="https://t.me/stefano_schmidt" >
+			<img height=25 src="https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge" />
+		</a>
+		<a href="mailto:" >
+			<img height=25 src="https://img.shields.io/badge/Gmail-ededed?style=for-the-badge&logo=gmail" />
+		</a>
+	</p>
 </div>
 
+<br>
+
+<!-- https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white -->
 <!-- 
 <p align="center">
 	<a href="https://github.com/schmidt-x/IdentityApi">

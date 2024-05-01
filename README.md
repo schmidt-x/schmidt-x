@@ -6,14 +6,13 @@
 		</a>
 	</p>
 	<p align="left">
-		My name is Ismail, I am a Backend developer.
+		My name is Stefano.
 		<br>
 		<br>
 		I'm currently:
 		<br>
 		<ul>
-			<li>🔭 — Working on <a href="https://github.com/schmidt-x/IdentityApi" ><b>Identity Api</b></a></li>
-			<li>🌱 — Learning <b>Unit Testing</b> and <b>Telegram bots</b></li>
+			<li>🔭 — Working on <a href="https://github.com/schmidt-x/Ahk_Lib/tree/main/RawHID"><b>Raw HID</b></a></li>
 		</ul>
  	</p>
 	<br>

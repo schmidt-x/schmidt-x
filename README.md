@@ -12,7 +12,7 @@
 		I'm currently:
 		<br>
 		<ul>
-			<li>🔭 — Working on <a href="https://github.com/schmidt-x/QmkHidHostUnicode"><b>QmkHidHostUnicode</b></a></li>
+			<li>🔭 — Working on <a href="https://github.com/schmidt-x/ValidationAPI"><b>ValidationAPI</b></a></li>
 		</ul>
  	</p>
 	<br>

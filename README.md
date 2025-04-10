@@ -6,17 +6,21 @@
 		</a>
 	</p>
 	<p align="left">
-		My name is Stefano.
+		I'm a .NET developer primarily interested in developing non-graphical, console tools and backend APIs.<br>
+		Owner of an amazing split-keyboard, «Imperial44» (by Ergohaven), powered by the highly configurable QMK Firmware. :smirk:
 		<br>
 		<br>
 		I'm currently:
 		<br>
 		<ul>
-			<li>🔭 — Working on <a href="https://github.com/schmidt-x/ValidationAPI"><b>ValidationAPI</b></a></li>
+			<li> 🔭 Seeking career opportunities</il>
 		</ul>
  	</p>
 	<br>
 	<p>
+		<a href="https://www.linkedin.com/in/ismail-khadzhiev" >
+			<img height=25 src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge" />
+		</a>
 		<a href="https://t.me/stefano_schmidt" >
 			<img height=25 src="https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge" />
 		</a>
